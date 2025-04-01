@@ -1,0 +1,14 @@
+/Users/eliserochaix/Lexicon VT2025/lexicon_Övning_1/obj/Debug/net9.0/lexicon_Övning_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliserochaix/Lexicon VT2025/lexicon_Övning_1/obj/Debug/net9.0/lexicon_Övning_1.AssemblyInfoInputs.cache
+/Users/eliserochaix/Lexicon VT2025/lexicon_Övning_1/obj/Debug/net9.0/lexicon_Övning_1.AssemblyInfo.cs
+/Users/eliserochaix/Lexicon VT2025/lexicon_Övning_1/obj/Debug/net9.0/lexicon_Övning_1.csproj.CoreCompileInputs.cache
+/Users/eliserochaix/Lexicon VT2025/lexicon_Övning_1/bin/Debug/net9.0/lexicon_Övning_1
+/Users/eliserochaix/Lexicon VT2025/lexicon_Övning_1/bin/Debug/net9.0/lexicon_Övning_1.deps.json
+/Users/eliserochaix/Lexicon VT2025/lexicon_Övning_1/bin/Debug/net9.0/lexicon_Övning_1.runtimeconfig.json
+/Users/eliserochaix/Lexicon VT2025/lexicon_Övning_1/bin/Debug/net9.0/lexicon_Övning_1.dll
+/Users/eliserochaix/Lexicon VT2025/lexicon_Övning_1/bin/Debug/net9.0/lexicon_Övning_1.pdb
+/Users/eliserochaix/Lexicon VT2025/lexicon_Övning_1/obj/Debug/net9.0/lexicon_Övning_1.dll
+/Users/eliserochaix/Lexicon VT2025/lexicon_Övning_1/obj/Debug/net9.0/refint/lexicon_Övning_1.dll
+/Users/eliserochaix/Lexicon VT2025/lexicon_Övning_1/obj/Debug/net9.0/lexicon_Övning_1.pdb
+/Users/eliserochaix/Lexicon VT2025/lexicon_Övning_1/obj/Debug/net9.0/lexicon_Övning_1.genruntimeconfig.cache
+/Users/eliserochaix/Lexicon VT2025/lexicon_Övning_1/obj/Debug/net9.0/ref/lexicon_Övning_1.dll
