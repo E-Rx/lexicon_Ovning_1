@@ -9,8 +9,9 @@ Ett litet företag i restaurangbranschen kontaktar dig för att utveckla ett lit
 ---
 
 🦾 *Försök göra programmet så robust och framtidssäkert som möjligt!
+
 ✨ **Bonus för att implementera test!** 🧪✅
-(men inte på bekostnad av att den andra koden blir lidande)
+
 
 ---
 
@@ -21,3 +22,25 @@ Ett litet företag i restaurangbranschen kontaktar dig för att utveckla ett lit
   Metod för att uppdatera en anställd i listan ✏️
 
   Implementera tester ✅
+
+-----------------------------
+
+Installation
+Klona detta repo eller ladda ner filerna för projektet.
+
+Öppna terminalen i projektmappen.
+
+Se till att du har .NET SDK installerat på din dator.
+
+Återställ eventuella beroenden (om det behövs) med:
+
+bash
+Copier
+Modifier
+dotnet restore
+För att köra programmet, använd:
+
+bash
+Copier
+Modifier
+dotnet run
