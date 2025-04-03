@@ -10,18 +10,15 @@ Ett litet företag i restaurangbranschen kontaktar dig för att utveckla ett lit
 
 🦾 *Försök göra programmet så robust och framtidssäkert som möjligt!
 
-✨ **Bonus för att implementera test!** 🧪✅
-
-
 ---
 
 📌 Att förbättra / Implementera 🔧
 
-  Metod för att söka efter en anställd via namn 🔎
-  Metod för att ta bort en anställd från listan ❌
-  Metod för att uppdatera en anställd i listan ✏️
+  - Metod för att söka efter en anställd via namn 🔎
+  - Metod för att ta bort en anställd från listan ❌
+  - Metod för att uppdatera en anställd i listan ✏️
 
-  Implementera tester ✅
+  - ✨ Bonus för att implementera test! 🧪✅
 
 -----------------------------
 
