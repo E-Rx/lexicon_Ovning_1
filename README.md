@@ -25,22 +25,17 @@ Ett litet företag i restaurangbranschen kontaktar dig för att utveckla ett lit
 
 -----------------------------
 
-Installation
-Klona detta repo eller ladda ner filerna för projektet.
+## Installation
 
-Öppna terminalen i projektmappen.
+1. Klona detta repo.
+2. Öppna terminalen i projektmappen.
+3. Se till att du har .NET SDK installerat på din dator.
+4. Återställ eventuella beroenden (om det behövs) med:
+   ```bash
+   dotnet restore
+   ```
+5. För att köra programmet, använd:
+   ```bash
+   dotnet run
+   ```
 
-Se till att du har .NET SDK installerat på din dator.
-
-Återställ eventuella beroenden (om det behövs) med:
-
-bash
-Copier
-Modifier
-dotnet restore
-För att köra programmet, använd:
-
-bash
-Copier
-Modifier
-dotnet run
